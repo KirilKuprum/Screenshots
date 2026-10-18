@@ -12,3 +12,8 @@
 5. <img width="635" height="430" alt="image" src="https://github.com/user-attachments/assets/7d0f49ea-7ce6-4d1f-8840-3b7789ab708b" />
 6. <img width="675" height="692" alt="image" src="https://github.com/user-attachments/assets/f9143fb5-cb1b-454e-88d7-395631ca4dee" />
 
+3 dz
+1. <img width="606" height="567" alt="image" src="https://github.com/user-attachments/assets/900ac080-d0b2-4530-b1f5-da4d481feffb" />
+   <img width="646" height="456" alt="image" src="https://github.com/user-attachments/assets/5cba6acc-9fde-4878-82d1-64747b2251dc" />
+2. <img width="623" height="696" alt="image" src="https://github.com/user-attachments/assets/23a0de71-0093-4705-a832-771c582836dd" />
+3. <img width="535" height="652" alt="image" src="https://github.com/user-attachments/assets/6ccef74a-0c2f-4487-bd5d-2d44f8f4ed91" />
